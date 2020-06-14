@@ -1,0 +1,10 @@
+.contain{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+.about{
+    border: 8px solid white;
+}

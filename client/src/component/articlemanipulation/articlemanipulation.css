@@ -1,0 +1,48 @@
+.textmanipulate{
+    color: black;
+    width: 30%;
+    padding: 12px 20px;
+    background:white;
+    border: 2px solid rgb(70, 189, 245);
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration-color: black;
+}
+.textmanipulate:focus{
+    outline: none;
+    border: 2px solid rgb(13, 163, 233);
+}
+.formmanipulate{
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 80%;
+    border-radius: 5px;
+    background:rgba(1, 14, 22, 0.2);
+    padding: 40px;
+    color: black;
+}
+.submitmanipulate{
+    color: white;
+    padding: 12px 20px;
+    background:rgba(4, 167, 243, 1);
+    margin-top: 2%;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-decoration-color: black;
+}
+.submitmanipulate:hover{
+    background:rgb(57, 183, 241);
+}
+.deletemanipulate{
+    color: white;
+    padding: 12px 20px;
+    background:rgb(243, 4, 4);
+    margin-top: 2%;
+    margin-left: 7.5%;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-decoration-color: black;
+}
+.deletemanipulate:hover{
+    background:rgb(252, 44, 44);
+}

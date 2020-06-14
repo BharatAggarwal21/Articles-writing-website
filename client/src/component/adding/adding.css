@@ -1,0 +1,52 @@
+.addingarticle{
+    height: 100vh;
+    padding: 10% 10%;
+}
+.addinput{
+    font-family: "Georgia";
+}
+.addingform{
+    background:rgba(1, 14, 22, 0.2);
+    padding: 40px;
+    border-radius: 5px;
+}
+.bodyadd{
+    height: 100px;
+    width: 50%;
+    padding: 20px 20px;
+    overflow: hidden;
+    border-radius: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+    word-break: break-all;
+    border: 2px solid rgb(147, 224, 243);
+    text-decoration-color: black;
+}
+.bodyadd:focus{
+    border: 2px solid rgb(8, 142, 175);
+    outline: none;
+}
+.addingtext{
+    width: 50%;
+    padding: 12px 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(147, 224, 243);
+    text-decoration-color: black;
+}
+.addingtext:focus,.submit:focus{
+    border: 2px solid rgb(8, 142, 175);
+    outline: none;
+}
+.addingsubmit{
+    color: white;
+    width: 50%;
+    padding: 12px 20px;
+    background:rgb(11, 168, 207);
+    margin-top: 3%;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-decoration-color: black;
+}
+.addingsubmit:hover{
+    background:rgb(35, 200, 241);
+}

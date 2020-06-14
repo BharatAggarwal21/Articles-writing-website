@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+.contact{
+    border: 8px solid white;
+}
